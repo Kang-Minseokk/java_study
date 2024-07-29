@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abcebd38-8335-4011-b80f-517faad74447" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../HYAI_ch03/AdamOpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HYAI_ch03/DropoutEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HYAI_ch03/FeedforwardEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HYAI_ch03/LayerNorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HYAI_ch03/Sectence2Vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HYAI_ch03/SelfAttentionResult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/ai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/datascience_bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/forest.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/minsoek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/image/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/statistic_data/salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/static/statistic_data/weather_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/ai_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/communication_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/computer_science_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/relaxation_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/statistic/live_chart_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/statistic/statistic_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/statistic/statistic_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/pybo/views/statistic_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/.zshrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/flask_session/0a67ea89c05406062dd2c76830211f0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/flask_session/bb8f0abfcc96e557aec036b1c504ce19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/flask_session/e5f25861672b41c258fe057c7e025e59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/answer/answer_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/answer/answer_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/forgot.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/forgot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/user_information.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/auth/user_information.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/calendar/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/calendar/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/calendar/calendar_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/calendar/calendar_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/calendar/calendar_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/comment/comment_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/comment/comment_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/form_errors.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/form_errors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_divided_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_divided_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/goal/goal_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/question/development_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/development_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/question/question_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/question_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/question/question_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/question_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/question/question_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/question_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/templates/question/tagged_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/templates/question/tagged_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/answer_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/answer_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/auth_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/auth_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/calendar_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/calendar_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/comment_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/comment_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/goal_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/goal_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/main_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/main_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/question_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/question_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myproject/pybo/views/vote_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../myproject/pybo/views/vote_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pandas/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../pandas/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2fr75nwnOlbJ5uPEcGnCekUCrzB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abcebd38-8335-4011-b80f-517faad74447" name="Changes" comment="" />
+      <created>1714547161970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714547161970</updated>
+      <workItem from="1714547162972" duration="1417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
