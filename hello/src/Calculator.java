@@ -1,17 +1,19 @@
 public class Calculator {
-    void powerOn() {
-        System.out.println("전원을 켭니다.");
+    void PowerOn() {
+        System.out.println("전원이 켜집니다.");
     }
 
-    double add(double a, double b) {
-        return a + b;
+    int add(int a, int b) {
+        int result = a + b;
+        return result;
     }
 
-    double divide(double a, double b) {
-        return a / b;
+    double divide(int x, int y) {
+        double result = x / y;
+        return result;
     }
 
-    void powerOff() {
-        System.out.println("전원을 끕니다.");
+    void PowerOff() {
+        System.out.println("전원이 꺼집니다.");
     }
 }

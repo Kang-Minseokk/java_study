@@ -1,9 +1,11 @@
 public class CarExample {
     public static void main(String[] args) {
-        Car myCar = new Car("포르쉐");
-        Car yourCar = new Car("벤츠");
+        Car dreamCar = new Car("tesla", "S", "Black", 300, 40);
+        System.out.println(dreamCar.company);
 
-        myCar.run();
-        yourCar.run();
+        dreamCar.changeColor("Blue");
+        System.out.println(dreamCar.color);
     }
+
+
 }

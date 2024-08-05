@@ -1,17 +1,13 @@
 public class CalculatorExample {
     public static void main(String[] args) {
-        Calculator calculator = new Calculator();
+        Calculator myCal = new Calculator();
+        myCal.PowerOn();
 
-        calculator.powerOn();
-
-        double add_result = calculator.add(3,4);
-        System.out.println("더한 결과는: " + add_result);
+        System.out.println("더한 값의 결과는: " + myCal.add(4, 9));
 
 
-        double divide_result = calculator.divide(6, 2);
-        System.out.println("나눈 결과는: " + divide_result);
-
-        calculator.powerOff();
-
+        System.out.println("뺀 값의 결과는: " + myCal.divide(8, 3));
+        myCal.PowerOff();
     }
+
 }

@@ -1,11 +1,25 @@
 public class Korean {
-    String nation = "대한민국";
+    String nation = "Korea";
     String name;
-    int ssn;
+    int age;
 
     public Korean(String n, int s) {
-        this.name = n;
-        this.ssn = s;
+        name = n;
+        age = s;
     }
 
+    public Korean(String n) {
+        name = n;
+    }
+
+    public void changeName(String n) {
+        this.name = n;
+        System.out.println("이제부터 당신의 이름은" + this.name + " 입니다.");
+    }
+
+    public boolean isAdult() {
+        if (this.age < 19) {
+            return false;
+        } else return true;
+    }
 }
