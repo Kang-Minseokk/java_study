@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructure_MidStudy/DataStructure_MidStudy.iml" filepath="$PROJECT_DIR$/DataStructure_MidStudy/DataStructure_MidStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java study/Java study.iml" filepath="$PROJECT_DIR$/Java study/Java study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06/ch06.iml" filepath="$PROJECT_DIR$/ch06/ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs2010_review/cs2010_review.iml" filepath="$PROJECT_DIR$/cs2010_review/cs2010_review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_study.iml" filepath="$PROJECT_DIR$/.idea/java_study.iml" />
+    </modules>
+  </component>
+</project>
